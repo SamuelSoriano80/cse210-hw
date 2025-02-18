@@ -1,4 +1,4 @@
-//  Added the ability the possibility to display how many times each activity has been used in the current session.
+//  Added the possibility to display how many times each activity has been used in the current session.
 
 using System;
 
